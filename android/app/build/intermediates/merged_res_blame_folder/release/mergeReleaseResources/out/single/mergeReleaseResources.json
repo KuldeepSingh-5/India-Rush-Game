@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.indiarush.trainrunner.app-release-39:/drawable_india_rush_logo.xml.flat",
+        "source": "com.indiarush.trainrunner.app-main-40:/drawable/india_rush_logo.xml"
+    },
+    {
+        "merged": "com.indiarush.trainrunner.app-release-39:/xml_config.xml.flat",
+        "source": "com.indiarush.trainrunner.app-main-40:/xml/config.xml"
+    },
+    {
+        "merged": "com.indiarush.trainrunner.app-release-39:/xml_file_paths.xml.flat",
+        "source": "com.indiarush.trainrunner.app-main-40:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.indiarush.trainrunner.app-release-39:/drawable_india_rush_splash.xml.flat",
+        "source": "com.indiarush.trainrunner.app-main-40:/drawable/india_rush_splash.xml"
+    },
+    {
+        "merged": "com.indiarush.trainrunner.app-release-39:/layout_activity_main.xml.flat",
+        "source": "com.indiarush.trainrunner.app-main-40:/layout/activity_main.xml"
+    }
+]

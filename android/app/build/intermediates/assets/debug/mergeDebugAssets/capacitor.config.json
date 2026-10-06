@@ -1,0 +1,11 @@
+{
+	"appId": "com.indiarush.trainrunner",
+	"appName": "India Rush: Train Runner",
+	"webDir": "dist",
+	"bundledWebRuntime": false,
+	"android": {
+		"allowMixedContent": false,
+		"versionName": "1.0.0",
+		"versionCode": 1
+	}
+}
